@@ -6,7 +6,7 @@ This repository is mainly displaying various programs that is being practiced by
 Ramanath Mandal,<br />
 Tamluk, West Bengal, India.<br />
 
-# Table of Contents
+## Table of Contents
 
 * [Hello World](https://github.com/MRamanath/Python-Basic-Programs/blob/master/Python-Programs/helloWorld.py)
 * [Number system conversion](https://github.com/MRamanath/Python-Basic-Programs/blob/master/Python-Programs/01NumSysConversion.py)
