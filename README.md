@@ -72,7 +72,7 @@ Tamluk, West Bengal, India.<br />
 * [Count the numbers of vowels and spaces in a string](https://github.com/MRamanath/Python-Basic-Programs/blob/master/Python-Programs/62vowelsSpace.py)
 * [input : Learning Python Is Very Easy <br/> output: Easy Very Is Python Learning](https://github.com/MRamanath/Python-Basic-Programs/blob/master/Python-Programs/63strimp01.py)
 * [input : Durga Software Solutions <br/> output: agruD erawtfoS snoituloS](https://github.com/MRamanath/Python-Basic-Programs/blob/master/Python-Programs/64strimp02.py)
-* [Print characters at even position and even position for the given string](https://github.com/MRamanath/Python-Basic-Programs/blob/master/Python-Programs/66strimp04.py)
+* [Print characters at even position for the given string](https://github.com/MRamanath/Python-Basic-Programs/blob/master/Python-Programs/66strimp04.py)
 * [Input1 : ravi <br/> Input2 : teja <br/> Output : rtaevjia](https://github.com/MRamanath/Python-Basic-Programs/blob/master/Python-Programs/67mergetwostr.py)
 * [input : One Two Three Four Five <br/> output: One owT Three ruoF Five](https://github.com/MRamanath/Python-Basic-Programs/blob/master/Python-Programs/68strimp05.py)
 * [input : B4A1D3 <br/> output: ABD134](https://github.com/MRamanath/Python-Basic-Programs/blob/master/Python-Programs/69strimp06.py)
