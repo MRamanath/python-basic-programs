@@ -7,6 +7,6 @@ Tamluk, West Bengal, India.<br />
 
 # Table of Contents
 
-* [Hello World](https://github.com/MRamanath/Python_Basic_Programs/blob/master/helloWorld.py)
+* [Hello World](https://github.com/MRamanath/Python-Basic-Programs/blob/master/Python-Programs/helloWorld.py)
     
 
