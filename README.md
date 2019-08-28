@@ -1,4 +1,5 @@
 # Python Basic Programs
+![Python](https://img.shields.io/badge/Python-3.7-brightgreen.svg)
 This is my repository for basic Python programs that I have practiced while learning Python.
 This repository is mainly displaying various programs that is being practiced by me! 
 
