@@ -79,4 +79,6 @@ Tamluk, West Bengal, India.<br />
 * [input: a4b3c2 <br/> output: aaaabbbcc](https://github.com/MRamanath/Python-Basic-Programs/blob/master/Python-Programs/70strimp07.py)
 * [input: a4k3b2 <br/> output: aeknbd](https://github.com/MRamanath/Python-Basic-Programs/blob/master/Python-Programs/71strimp08.py)
 * [Duplicate elimination from a string](https://github.com/MRamanath/Python-Basic-Programs/blob/master/Python-Programs/72strimp09.py)
-* [Hello World](https://github.com/MRamanath/Python-Basic-Programs/blob/master/Python-Programs/helloWorld.py)
+* [Convert the elements of two lists into key value pairs of a dictionary](https://github.com/MRamanath/Python-Basic-Programs/blob/master/Python-Programs/listintodict.py)
+* [A program to create a dictionary that does not change its order](https://github.com/MRamanath/Python-Basic-Programs/blob/master/Python-Programs/orderDict.py)
+* [Passing a dictionary to a function](https://github.com/MRamanath/Python-Basic-Programs/blob/master/Python-Programs/passingdicttofunc.py)
