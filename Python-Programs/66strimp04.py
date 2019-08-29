@@ -1,4 +1,4 @@
-# A program to print characters at even position and even position for the given string.
+# A program to print characters at even position and odd position for the given string.
 
 s = input('Enter a string: ')
 print('Characters at even position : {} '.format(s[0::2]))
@@ -14,7 +14,7 @@ while i < l:
 
 i = 1
 l = len(s)
-print('\nCharacters at even position :')
+print('\nCharacters at odd position :')
 while i < l:
     print(s[i], end = ' ')
     i = i + 2
@@ -26,5 +26,5 @@ while i < l:
 # Enter a string: Ram is a good boy
 # Characters at even position :
 # R m i     o d b y 
-# Characters at even position :
+# Characters at odd position :
 # a   s a g o   o 
